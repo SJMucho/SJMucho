@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm currently working on a artist portfolio site for my talented friend Tracey McTague and I'm about to start contributing to an exciting project called MBUYU. I'll be part of a team writing code in an effort to digitize data and records for the country of Burundi.
+I'm currently working on an artist portfolio site for my talented friend, Tracey McTague and I'm about to start contributing to an exciting project called MBUYU. I'll be part of a team writing code in an effort to digitize data and records for the country of Burundi.
 
 Check out my music site: www.sarahmuchomusic.com
