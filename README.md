@@ -18,3 +18,9 @@ Here are some ideas to get you started:
 I'm currently working on an artist portfolio site for my talented friend Tracey McTague, and I'm about to start contributing to an exciting project called MBUYU. I'll be part of a team writing code in an effort to digitize data and records for the country of Burundi.
 
 Check out my music site: www.sarahmuchomusic.com
+
+
+FRONTEND: React.js, Redux, Hooks, Context API, Jest, Cypress, Yup, Axios, JavaScript, HTML, CSS, Ant design
+
+BACKEND:  Node.js, Express, SQL, PostgreSQL, Git CLI, GitHub, VS Code, Vercel, Heroku, Netlify,  Python, Algorithms
+
